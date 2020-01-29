@@ -12,11 +12,11 @@ sys.path =['', '/home/vsvld/anaconda3/lib/python37.zip',
 '/usr/lib/python3/dist-packages']
 
 import requests
-import time
 import pandas as pd
 import csv
 from bs4 import BeautifulSoup
-
+import datetime as dt
+import matplotlib.pyplot
 
 
 def get_html(url):
