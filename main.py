@@ -17,7 +17,7 @@ import csv
 from bs4 import BeautifulSoup
 import datetime as dt
 
-merge cinflicts
+edit name edit
 
 def get_html(url):
     r = requests.get(url)
