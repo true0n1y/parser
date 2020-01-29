@@ -16,7 +16,6 @@ import pandas as pd
 import csv
 from bs4 import BeautifulSoup
 import datetime as dt
-import matplotlib.pyplot
 
 
 def get_html(url):
