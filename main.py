@@ -18,6 +18,8 @@ from bs4 import BeautifulSoup
 import datetime as dt
 
 edit name edit
+add some extra info for checking hipothethis
+
 
 def get_html(url):
     r = requests.get(url)
